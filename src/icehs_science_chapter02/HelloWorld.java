@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("棲橡掉 傷梃塭~六六六六");
 		System.out.println("棲橡掉 傷梃塭~六六六六");
 		System.out.println("棲橡掉 傷梃塭~六六六六");
-		System.out.println("棲橡掉 傷梃塭~六六六六");
+		System.out.println("棲橡掉 傷梃 塭~六六六六");
 		System.out.println("棲橡掉 傷梃塭~六六六六");
 		System.out.println("棲橡掉 傷梃塭~六六六六");
 		System.out.println("棲橡掉 傷梃塭~六六六六");
