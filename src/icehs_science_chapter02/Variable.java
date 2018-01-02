@@ -4,7 +4,7 @@ public class Variable {
 	public static void main(String[] args) {
 		int bornYear = 2001;
 		int bornMonth;
-		bornMonth=2;
+		bornMonth=21;
 		int bornDay=9;
 		
 		System.out.print(bornYear);
