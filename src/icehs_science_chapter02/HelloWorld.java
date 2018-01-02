@@ -2,7 +2,7 @@ package icehs_science_chapter02;
 
 public class HelloWorld {
 	
-	public static void main(String[] args){
+	public static void main(String[] args){//寰喟 銓梃塭~六六六
 		System.out.println("棲橡掉 傷梃塭~六六六六");
 		System.out.println("棲橡掉 傷梃塭~六六六六");
 		System.out.println("棲橡掉 傷 梃塭~六六六六");
